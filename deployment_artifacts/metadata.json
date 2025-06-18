@@ -1,0 +1,11 @@
+{
+  "n_clusters": 3,
+  "features_used": 50,
+  "creation_date": "2025-06-18 22:45:39",
+  "silhouette_score": 0.16660781083131945,
+  "cluster_names": {
+    "0": "Data Science/ML Experts",
+    "1": "Web Developers (Full Stack)",
+    "2": "Business/Data Analysts"
+  }
+}
